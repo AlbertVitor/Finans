@@ -1,0 +1,21 @@
+/* Seção Home */
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+/* Seção Saiba */
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+/* Footer */
+footer p a {
+	text-decoration: none;
+	margin: 5px 15px;
+	color: gray;
+}
+
+
+ 
